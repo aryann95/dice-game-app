@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Green Background PNG Images,  Kvass, Bar Party, Poster Template PNG Transparent Background - Pngtree.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
